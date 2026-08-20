@@ -29,6 +29,11 @@ ul a {
     text-decoration: none;
     border-radius: 5px;
 }
+p{
+    margin: 20px;
+    font-size: 125%;
+    color: #333;
+}
 
 .btn:hover {
     background-color: transparent;
